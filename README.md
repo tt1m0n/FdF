@@ -16,12 +16,17 @@ This project is about creating a simplified graphic “wireframe” (“fils de 
 
 
 Each number corresponds to a point in space:
+
 • The horizontal position corresponds to its axis. 
+
 • The vertical position corresponds to its ordinate. 
+
 • The value corresponds to its altitude.
 
 Remember to make optimum use of your libft! The use of get_next_line, ft_split and ft_getnbr will allow you to quickly and simply read data from the file.
 Regarding the graphic representation:
 • You can choose the type of projection: parallel, iso, conic.
+
 • You must be able to quit the program by pressing ’esc’.
+
 • The use of images from minilibX is strongly encouraged.
