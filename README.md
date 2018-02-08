@@ -40,3 +40,4 @@ Regarding the graphic representation:
 • You must be able to quit the program by pressing ’esc’.
 
 • The use of images from minilibX is strongly encouraged.
+
